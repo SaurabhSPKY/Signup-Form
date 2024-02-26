@@ -1,0 +1,27 @@
+.card{
+border: 1px solid black;
+border-radius: 10px;
+margin-left:30%;
+margin-right:30% ;
+text-align: center;
+padding-bottom: 5%;
+margin-top: 80px;
+background: linear-gradient(rgb(234, 68, 79),yellow)
+}
+.for{
+    margin: 10px;
+}
+label{
+    margin-left: -20px;
+    font-weight: 600;
+}
+input{
+    width: 300px;
+    border-radius: 5px;
+}
+.btn{
+    font-size: 20px;
+    width: 140px;
+    height: 40px;
+    border-radius: 30px;
+}
